@@ -41,3 +41,7 @@ On True Randomness, every block of rolls ends with a receipt: the public beacon 
 Verifiable digital dice · cryptographically secure randomness · dice probability and simulation · reproducible roll verification · RNG testing · developer tools for tabletop games
 
 <sub>The production platform is maintained privately. What lives here is what we're happy to prove in public.</sub>
+
+
+<img width="1467" height="864" alt="Screenshot 2026-10-03 at 1 12 26 pm" src="https://github.com/user-attachments/assets/24162337-f36a-4f1a-8d93-dfdf88067b54" />
+
