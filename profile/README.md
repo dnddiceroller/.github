@@ -24,6 +24,12 @@
 
 ---
 
+
+<img width="1471" height="862" alt="Screenshot 2026-10-03 at 1 16 42 pm" src="https://github.com/user-attachments/assets/0946f4b9-94ad-4ed5-82fd-96fad4a38305" />
+
+
+
+
 A dice roller should be fast enough for the game table, and rigorous enough that anyone curious can see what happened.
 
 On True Randomness, every block of rolls ends with a receipt: the public beacon pulse the numbers came from, its hash, and a certificate page that checks that hash against the beacon itself. Scan the QR at the table and see for yourself.
