@@ -1,0 +1,28 @@
+name: Idea
+description: A tool, a notation, a better explanation. Pitch it.
+labels: ["idea"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: What you want to do and can't, or what confused you.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What would fix it. Rough is fine.
+    validations:
+      required: true
+  - type: textarea
+    id: cost
+    attributes:
+      label: What it costs
+      description: New dependencies, new files, anything that runs without being asked. "Nothing" is a great answer.
+  - type: textarea
+    id: more
+    attributes:
+      label: Anything else
+      description: Links, sketches, the table moment that sparked it.

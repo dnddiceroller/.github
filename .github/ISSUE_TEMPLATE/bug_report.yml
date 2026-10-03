@@ -1,0 +1,42 @@
+name: Bug report
+description: Something gives the wrong answer, crashes, or reads wrong.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. Security problems go to dev@dnddiceroller.com, not here.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you saw, and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to make it happen again
+      description: The exact command, dice expression or certificate link.
+      placeholder: |
+        node bin/dice-prob.js 4d6dl1 --dc 15
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: Output
+      description: Paste what it printed.
+      render: text
+  - type: input
+    id: env
+    attributes:
+      label: Node version and OS
+      placeholder: Node 22, macOS 15
+  - type: checkboxes
+    id: checked
+    attributes:
+      label: Before you send
+      options:
+        - label: I searched open issues for this one.
+          required: true

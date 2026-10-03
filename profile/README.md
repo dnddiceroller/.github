@@ -41,6 +41,9 @@ On True Randomness, every block of rolls ends with a receipt: the public beacon 
 | [roll-verification-spec](https://github.com/dnddiceroller/roll-verification-spec) | What a roll receipt means, how a certificate is checked, and what it does not prove |
 | [dice-probability-tools](https://github.com/dnddiceroller/dice-probability-tools) | Exact odds for 4d6-drop-lowest, advantage, "can I hit DC 15?" and friends |
 | [examples](https://github.com/dnddiceroller/examples) | Small runnable scripts: verify a receipt against the beacon, turn a hash into a fair die face |
+| [engineering-handbook](https://github.com/dnddiceroller/engineering-handbook) | Handbook: how we build, test and ship, how the randomness works, and a glossary |
+
+**Contributing:** issues and pull requests welcome. Start with [CONTRIBUTING.md](https://github.com/dnddiceroller/.github/blob/main/CONTRIBUTING.md).
 
 ### What we care about
 

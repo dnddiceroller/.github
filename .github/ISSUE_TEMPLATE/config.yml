@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Roll some dice
+    url: https://www.dnddiceroller.com
+    about: The roller itself. Questions about the site go to its contact page.
+  - name: Report a security problem
+    url: https://github.com/dnddiceroller/.github/blob/main/SECURITY.md
+    about: Email dev@dnddiceroller.com. Please never open a public issue for these.
+  - name: How a receipt works
+    url: https://github.com/dnddiceroller/roll-verification-spec/blob/main/SPEC.md
+    about: What a receipt and certificate prove, and what they do not.
