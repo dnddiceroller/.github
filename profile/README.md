@@ -54,3 +54,20 @@ Verifiable digital dice · cryptographically secure randomness · dice probabili
 
 <img width="1467" height="864" alt="Screenshot 2026-10-03 at 1 12 26 pm" src="https://github.com/user-attachments/assets/24162337-f36a-4f1a-8d93-dfdf88067b54" />
 
+
+
+
+## What's  new at Dnd Dice Roller check out:
+
+
+**This is a character sheet on rpgcreator.net**
+
+<img width="2942" height="1728" alt="edited" src="https://github.com/user-attachments/assets/3b8b9ad2-647b-42c9-adba-381654511378" />
+
+
+https://rpgcreator.net/app 
+
+
+<img width="2400" height="1350" alt="dragon-standalone" src="https://github.com/user-attachments/assets/a2b05e89-c604-4672-b164-6962ba9d3762" />
+
+
